@@ -1,4 +1,4 @@
-A[Open] -->|Mapped to| B[Open]
+    A[Open] -->|Mapped to| B[Open]
     C[Ready for Dev] -->|Mapped to| D[To Do]
     E[In Progress] -->|Mapped to| F[In Progress]
     G[Product Review] -->|Mapped to| H[In Review]
